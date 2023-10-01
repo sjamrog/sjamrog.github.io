@@ -1,4 +1,4 @@
-# sejamrog.github.io
+# sjamrog.github.io
 Stephen Jamrog sejamrog@my.waketech.edu
 My github account is used to publish open source projects needed for this class
 the repository is the place where these projects will be published
